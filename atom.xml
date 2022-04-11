@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-16T07:38:50.689Z</updated>
+  <updated>2022-04-11T06:42:00.143Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Android Studio插件</title>
+    <link href="http://example.com/2022/04/11/android-studio-plugins/"/>
+    <id>http://example.com/2022/04/11/android-studio-plugins/</id>
+    <published>2022-04-11T06:22:59.000Z</published>
+    <updated>2022-04-11T06:42:00.143Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>插件</th><th>介绍</th></tr></thead><tbody><tr><td><a href="https://www.tabnine.com/">tabnine</a></td><td>AI代码补全插件</td></tr><tr><td><a href="https://plugins.jetbrains.com/plugin/10081-edutools/docs/learner-start-guide.html">EduTools</a></td><td>语言学习插件</td></tr><tr><td><a href="https://yiiguxing.github.io/TranslationPlugin/index.html">Translation</a></td><td>翻译插件</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;插件&lt;/th&gt;
+&lt;th&gt;介绍&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.tabnine.com/&quot;&gt;tabnine&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;AI代码补全插件</summary>
+      
+    
+    
+    
+    
+    <category term="Android Studio" scheme="http://example.com/tags/Android-Studio/"/>
+    
+  </entry>
   
   <entry>
     <title>Android Studio快捷键</title>
